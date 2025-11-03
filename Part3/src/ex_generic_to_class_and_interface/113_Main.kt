@@ -6,5 +6,3 @@ fun main(args:Array<String>)
     pair = Pair<Int, Double>(15, 9.12)
     println(pair.toString())
 }
-
-// for committing changes
